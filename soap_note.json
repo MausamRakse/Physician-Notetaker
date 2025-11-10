@@ -1,0 +1,18 @@
+{
+  "Subjective": {
+    "Chief_Complaint": "discomfort, tenderness, back pain and others",
+    "History_of_Present_Illness": "Patient reports september 1st, around 12:30 in the afternoon. Diagnosed with whiplash injury. Presented with discomfort, tenderness, back pain, hit my head, neck pain, pain, back pain, stiffness, head pain, trouble sleeping. Received painkiller, physiotherapy, physiotherapy, painkillers. Current status: still experiencing pain now? patient: it's not constant, but i do get occasional backaches."
+  },
+  "Objective": {
+    "Physical_Exam": "full range of movement, and there's no tenderness or signs of lasting damage. no tenderness or signs of lasting damage. muscles and spine seem to be in good condition",
+    "Observations": " Your muscles and spine seem to be in good condition"
+  },
+  "Assessment": {
+    "Diagnosis": "whiplash injury",
+    "Severity": "Mild"
+  },
+  "Plan": {
+    "Treatment": "painkiller, physiotherapy, physiotherapy, painkillers",
+    "Follow-Up": "come back for a follow-up"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Patient_Name": "Jones",
+  "Symptoms": [
+    "discomfort",
+    "tenderness",
+    "back pain",
+    "hit my head",
+    "Neck pain",
+    "pain",
+    "Back pain",
+    "stiffness",
+    "Head pain",
+    "trouble sleeping"
+  ],
+  "Diagnosis": "whiplash injury",
+  "Treatment": [
+    "painkiller",
+    "physiotherapy",
+    "Physiotherapy",
+    "Painkillers"
+  ],
+  "Current_Status": "still experiencing pain now? Patient: It's not constant, but I do get occasional backaches",
+  "Prognosis": "full recovery within six months of the accident",
+  "Keywords": [
+    "better still discomfort",
+    "realized hit head steering wheel could feel pain neck back",
+    "checked said whiplash injury n't X-rays",
+    "neck back pain really bad\u2014I trouble sleeping take painkillers regularly",
+    "started improving ten sessions physiotherapy help stiffness discomfort",
+    "still experiencing pain",
+    "Patient constant get occasional backaches",
+    "noticed effects like anxiety driving difficulty concentrating",
+    "Let ahead physical examination check mobility lingering pain",
+    "neck back full range movement tenderness signs lasting damage"
+  ]
+}
